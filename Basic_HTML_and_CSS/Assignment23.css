@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Assignment 23</title>
+		<style>
+		p {
+			color: snow;
+			background: black;
+			font-weight: bold;
+			font-size: large;
+			text-align: center;
+		}
+		</style>
+	</head>
+	<body>
+		<p>Pieces</p>
+		<p>These paragraphs are styled with CSS.</p>
+	</body>
+</html>

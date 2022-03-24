@@ -1,0 +1,11 @@
+ol {
+	list-style-type: lower-roman;
+}
+
+/* change ordered list from 123 to Roman numerals */
+
+ul {
+	list-style-type: square;
+}
+
+/* make unordered list from circular bullet points to squares */

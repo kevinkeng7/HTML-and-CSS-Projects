@@ -1,0 +1,26 @@
+table {
+	border: 5px solid red;
+}
+	
+/* silver border around cells of table (1px thick) */
+	
+td:hover {
+	background-color: yellow;
+	color: black;
+}
+
+/* background color of cells turn yellow and font to black when we hover mouse over them */
+
+tr, th {
+	background-color: black;
+	color: cornsilk;
+}
+
+/* top row have black background and cornsilk font */
+
+tr, td {
+	background-color: darkgreen;
+	color: white;
+}
+
+/* make remaining rows dark green background & white font */
